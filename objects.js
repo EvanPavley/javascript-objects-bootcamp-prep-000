@@ -1,7 +1,9 @@
-var playlists = {
+var playlist = {
   redHotChiliPeppers: "cantStop",
   radiohead: "lucky",
   catPower: "ruin"
 }
 
-fun
+function updatePlaylist{
+  
+}
