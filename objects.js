@@ -6,7 +6,7 @@ var playlist = {
 
 function updatePlaylist(playlist, fionaApple, sleepToDream) {
   
-  return Object.assign({}, playlist, { [fionaApple]: "sleepToDream" })
+  playlist[fionaApple]=sleepToDream
   
 }
 
