@@ -4,6 +4,6 @@ var playlist = {
   catPower: "ruin"
 }
 
-function updatePlaylist{
+function updatePlaylist(playlist, joyDivision, {
   
 }
