@@ -1,3 +1,3 @@
 var playlists = {
-  redHotChiliPeppers: "Dani"
+  redHotChiliPeppers: "daniCaliforina"
 }
