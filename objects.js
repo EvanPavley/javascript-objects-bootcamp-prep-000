@@ -1,3 +1,3 @@
 var playlists = {
-  redHotChill
+  redHotChili
 }
