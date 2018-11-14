@@ -4,6 +4,7 @@ var playlist = {
   catPower: "ruin"
 }
 
-function updatePlaylist(playlist, joyDivision, {
+function updatePlaylist(playlist, fionaApple, sleepToDream) {
+  
   
 }
