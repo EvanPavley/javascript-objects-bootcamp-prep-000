@@ -10,3 +10,11 @@ function updatePlaylist(playlist, fionaApple, sleepToDream) {
   
 }
 
+function removeFromPlaylist(playlist, radiohead){
+
+delete playlist[radiohead];
+
+}
+
+
+
