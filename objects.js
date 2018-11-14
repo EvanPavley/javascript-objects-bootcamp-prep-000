@@ -1,4 +1,4 @@
 var playlists = {
   redHotChiliPeppers: "cantStop"
-  radiohead: ""
+  radiohead: "Lucky"
 }
